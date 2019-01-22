@@ -1,0 +1,5 @@
+syntax = "proto2";
+message SampleProto {
+  optional string aaa = 1;
+  repeated string bbb = 2;
+}
